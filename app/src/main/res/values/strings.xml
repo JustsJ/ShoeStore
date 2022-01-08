@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button" >Login</string>
+    <string name="create_user_button">Create new Login</string>
+    <string name="welcome_title">Welcome to ShoeShop!</string>
+    <string name="welcome_text">This is an app to practice some of the basics of Android development, such as making complex layouts, connecting them all with navigation that makes sense, and displaying data via the wonders of data binding. A bit of practice for me, and a decent showcase of my skills to you :)</string>
+    <string name="continue_button">Continue</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="instructions_text">To use the app, just tap the \'continue\' button and browse the shoes! More instructions to be added here as new features get introduced.</string>
+    <string name="title_shoelist">Shoe List</string>
+    <string name="logout_button">Logout</string>
+    <string name="img_button">Select image</string>
+    <string name="save_button">Save</string>
+    <string name="name_text">Name</string>
+    <string name="size_text">Size</string>
+    <string name="company_text">Company</string>
+    <string name="description_text">Description</string>
+</resources>
